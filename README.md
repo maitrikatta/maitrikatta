@@ -16,5 +16,5 @@ night.innerText = code;
 | Java | JavaFX | SceneBuilder |
 |TypeScript|Material UI| VS Code|
 |Python :snake:| GSAP| Eclipse|
-
+|Firebase|Heroku|AWS|
 #### :trollface: Currently working on: maitrikatta social site.
