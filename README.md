@@ -4,7 +4,7 @@ import code from 'js'
 const night = document.getElementById('time'); 
 night.innerText = code;
 ```
-# I'm a JavaScript Developer :heart:
+## I'm a JavaScript Developer :heart:
 ####  :coffee: Java is second most loved but here's list:
 
 | languages | Libraries | Misc. |
