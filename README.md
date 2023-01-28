@@ -9,9 +9,9 @@ night.innerText = code;
 
 | languages | Libraries | Misc. |
 |-----------|-------|-----------|
-| NodeJS(env) | ExpressJS | MongoDB|
-| C | ReactJS| MySQL |
-| C++ | Redux | Postman API |
+| **NodeJS** (env) | **ExpressJS** | **MongoDB**|
+| C | **ReactJS**| MySQL |
+| C++ | **Redux** | Postman API |
 |PHP | Mongoose | MySQL Workbench |
 | Java | JavaFX | SceneBuilder |
 |TypeScript|Material UI| VS Code|
