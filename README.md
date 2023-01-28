@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**maitrikatta/maitrikatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```JavaScript
+import code from 'js'
+const night = document.getElementById('time'); 
+night.innerText = code;
+```
+# I'm a JavaScript Developer :heart:
+####  :coffee: Java is second most loved but here's list:
 
-Here are some ideas to get you started:
+| languages | Libraries | Misc. |
+|-----------|-------|-----------|
+| NodeJS(env) | ExpressJS | MongoDB|
+| C | ReactJS| MySQL |
+| C++ | Redux | Postman API |
+|PHP | Mongoose | MySQL Workbench |
+| Java | JavaFX | SceneBuilder |
+|TypeScript|Material UI| VS Code|
+|Python :snake:| GSAP| Eclipse|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :trollface: Currently working on: maitrikatta social site.
